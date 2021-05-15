@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Defii/ a Handshake Top Level Domain
 
-You can use the [editor on GitHub](https://github.com/BeeChains/defii/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Built using [Create-React-App](https://create-react-app.dev), [Fleek](https://fleek.co/) and [Dfinity](https://dfinity.org/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## IINC/ | a Handshake(HNS) blockchain top level domain
+[SHOP.IINC](http://shop.iinc.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/)
+[![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# The "I" of All-Conquering Spirit, the Omniscient, Omnipotent and Omnipresent Spark Within us is a drop of burning desire, rippling into a wave as The Great Awakening of the individual soul. Choose to awaken! NOW, presence a blaze, the All-Consuming Flame is seen as self-expression flowing from The Holy Spirit.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeeChains/defii/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Inner I Net Company](https://shapereality.innerinetcompany.hns.to/) a [Handshake.org](https://handshake.org/) TLD.
+- [Inner I Net Company](https://innerinetcompany.webflow.io/) on WebFlow.
+- [Inner I Net Company](https://innerinetcompany.carrd.co/) on Carrd.
+- [SHOP.Inner I NET COMPANY](http://shop.innerinetcompany.hns.to/)
+- [INW](http://inw.hns.to/) 
+- [IIK](http://iik.hns.to/)
